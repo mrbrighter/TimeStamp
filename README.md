@@ -3,8 +3,8 @@
 ## Overview
 This GitLab repository contains a Windows Registry configuration file and a C# program that allows users to modify file or folder creation dates by right-clicking on them in the Windows File Explorer. The repository is organized as follows:
 
-- Windows Registry Configuration: A .reg file that adds context menu entries to the Windows File Explorer.
-- C# Program: A C# program that performs the date modification when triggered from the context menu.
+- **Windows Registry Configuration:** A .reg file that adds context menu entries to the Windows File Explorer.
+- **C# Program:** A C# program that performs the date modification when triggered from the context menu.
 
 ## Windows Registry Configuration
 
