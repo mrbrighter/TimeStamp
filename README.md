@@ -26,11 +26,12 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\*\shell\TimeStamp\command]
 @="\"D:\\TimeStamp\\TimeStamp.exe\" \"%V\""
-````
+```
+
 To apply this configuration, double-click the TimeStamp.reg file, and Windows will add the context menu entries.
 
 C# Program
-Description
+**Description**
 
 The C# program (TimeStamp.exe) in this repository is responsible for setting the creation date of files and folders. It takes command line arguments to identify the target item (file or folder) and the desired date and time for modification.
 
