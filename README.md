@@ -69,7 +69,6 @@ This GitLab repository provides a convenient way to modify file and folder creat
 
 For any issues or inquiries, please refer to the repository's issue tracker or contact the repository owner.
 
-Thank you for using TimeStamp!
 
 MIT License
 
