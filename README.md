@@ -26,7 +26,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\*\shell\TimeStamp\command]
 @="\"D:\\TimeStamp\\TimeStamp.exe\" \"%V\""
-```plaintext
+````
 To apply this configuration, double-click the TimeStamp.reg file, and Windows will add the context menu entries.
 
 C# Program
@@ -45,9 +45,10 @@ Usage
 
 Start the program with the following command:
 
-plaintext
+```
 Copy code
 TimeStamp.exe "C:\path\to\file-or-folder"
+```
 Replace "C:\path\to\file-or-folder" with the path to the file or folder you want to modify.
 
 Use the GUI to select the desired date and time.
